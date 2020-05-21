@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "dpas-react-scripts",
   "version": "3.4.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "DPAS Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/lacovitchd/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
